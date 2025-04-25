@@ -10,13 +10,13 @@
 - [ ] Comprendre le fonctionnement de Git
     - [ ] Comprendre le staging de Git
     - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-        - [ ] git init
-        - [ ] git add
-        - [ ] git status
-        - [ ] git commit
-        - [ ] git pull
-        - [ ] git push
-        - [ ] git clone
+        - [x] git init
+        - [x] git add
+        - [x] git status
+        - [x] git commit
+        - [x] git pull
+        - [x] git push
+        - [x] git clone
         - [ ] git remote
 - [ ] Faire le parcours Git-it (Nodeschool.io)
 - [ ] Comprendre les termes "local", "origin" et "upstream"
@@ -29,8 +29,8 @@
 
 - [ ] Passer le badge IBM [Git and GitHub essantials](https://www.ibm.com/training/badge/git-and-github-essentials?utm_medium=OSocial&utm_source=Youtube&utm_content=SOFWW&utm_id=YT-101-Git-for-the-Mainframe)
 
-- [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 
 #### Profiles Professionnels
 
