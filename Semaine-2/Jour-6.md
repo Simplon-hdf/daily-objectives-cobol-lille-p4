@@ -6,17 +6,17 @@
 
 #### Introduction aux boucles en COBOL
 
-- [ ] Comprendre la boucle PERFORM
+- [x] Comprendre la boucle PERFORM
   - [ ] PERFORM n TIMES : exécution un nombre fixe de fois
-  - [ ] PERFORM UNTIL : boucle avec condition d’arrêt
-  - [ ] PERFORM VARYING : boucle avec compteur
+  - [x] PERFORM UNTIL : boucle avec condition d’arrêt
+  - [x] PERFORM VARYING : boucle avec compteur
 - [ ] Différence entre boucles contrôlées par un compteur et par une condition
 
 #### Exercices pratiques
 
-- [ ] Créer un programme qui affiche "Bonjour" 5 fois
-  - [ ] Utiliser PERFORM 5 TIMES
-- [ ] Créer un programme qui compte de 1 à 10 et affiche chaque nombre
+- [x] Créer un programme qui affiche "Bonjour" 5 fois
+  - [x] Utiliser PERFORM 5 TIMES
+- [x] Créer un programme qui compte de 1 à 10 et affiche chaque nombre
   - [ ] Utiliser PERFORM VARYING
 - [ ] Créer un programme qui demande un nombre et s’arrête quand l’utilisateur entre 0
   - [ ] Utiliser PERFORM UNTIL
